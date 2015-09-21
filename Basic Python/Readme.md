@@ -11,11 +11,11 @@ Idea 4: [Text Processor](#text)
 
 #### <a name="logic"></a> Simulating Logic Circuits
 
-You all know what logic circuits are. They were (are) the part of your syllabus in 3rd semester. In this module you'll be simulating logic circuits - AND, OR, NOT, NAND, XOR, XNOR. As you learn more python you will make your module better and more functional. For subtasks and basic start guide, head to - [here]().
+You all know what logic circuits are. They were (are) the part of your syllabus in 3rd semester. In this module you'll be simulating logic circuits - AND, OR, NOT, NAND, XOR, XNOR. As you learn more python you will make your module better and more functional. For subtasks and basic start guide, head to - [here](https://github.com/jdevlabs/Python-Roxx/blob/master/Basic%20Python/Logic%20Circuits.md).
 
 #### <a name="wave"></a> Waves and Harmonics
 
-The theme of this study is to demonstrate Fourier's method for finding the harmonic amplitudes from a sampled wave. Yeah, I copied it from somewhere. Anyway, the main task in this module is to make a wave class through which, we will be able to add, multiply, divide, and subtract waves in order to add in (and subtract out) harmonic frequencies. The class might also have a method to plot the wave on the screen (if you are willing to go that). For subtasks and basic start guide, head to - [here]().
+The theme of this study is to demonstrate Fourier's method for finding the harmonic amplitudes from a sampled wave. Yeah, I copied it from somewhere. Anyway, the main task in this module is to make a wave class through which, we will be able to add, multiply, divide, and subtract waves in order to add in (and subtract out) harmonic frequencies. The class might also have a method to plot the wave on the screen (if you are willing to go that). For subtasks and basic start guide, head to - [here](https://github.com/jdevlabs/Python-Roxx/blob/master/Basic%20Python/Waves.md).
 
 #### <a name="nm"></a> Numerical Methods
 
